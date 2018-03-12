@@ -1,0 +1,43 @@
+* {
+      font-family: 'Arial';
+      font-style: normal;
+    }
+
+    .bold {
+      font-weight: bold;
+    }
+
+    #pytel h2 {
+      text-decoration: underline;
+    }
+
+    #pytel p {
+      text-align: justify;
+      padding: 20px;
+    }
+
+    #pytel {
+      border: 2px solid;
+    }
+
+    i {
+      color: #2e2e2e;
+    }
+
+    p {
+      line-height: 1.7;
+    }
+
+    h2 {
+      margin: 20px;
+      text-transform: uppercase;
+      float: left;
+    }
+
+    #zanr {
+      background: none;
+    }
+
+    footer {
+      font-size: 20px;
+    }
